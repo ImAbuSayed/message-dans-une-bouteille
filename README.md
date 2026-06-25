@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la pénombre du club, tu captes la lumière, so bright
+> Ton parfum sur ma veste, c'est ma boussole dans le noir
+> Je jette un message dans une bouteille à la mer de la nuit
+> Baby you know, tu es la seule envie qui me suit
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
